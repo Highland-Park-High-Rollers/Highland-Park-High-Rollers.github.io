@@ -1,2 +1,2 @@
 # Highland-Park-High-Rollers.github.io
-Webpage for the Highland Park High ROllers
+Webpage for the Highland Park High Rollers
