@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Highland Park High Rollers
 ---
 
