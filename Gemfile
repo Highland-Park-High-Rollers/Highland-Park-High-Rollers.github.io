@@ -6,3 +6,5 @@ gem "kramdown-parser-gfm"
 gem "minima"
 
 gem "webrick", "~> 1.8"
+
+gem "jekyll-seo-tag"
