@@ -4,8 +4,12 @@ layout: page
 
 Welcome to the home of the **Highland Park High Rollers**, the only board game group for adults in Highland Park, NJ.
 
+## Social media
 Check out our [Facebook Group](https://www.facebook.com/groups/662546804794962) for more information and to meet our group members.
 
+Discord: Attend an event or reach out on Facebook to request an invite link.
+
+## Upcoming events
 Calendar of upcoming events:
 
 <div class="calendar-container">
